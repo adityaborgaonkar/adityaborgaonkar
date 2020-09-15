@@ -1,4 +1,4 @@
-## Hi, I'm Aditya <img align="right" width="100" height="100" src="avatar_trans.png">
+## Hi, I'm Aditya <img align="right" alt="aditya" width="100" height="100" src="https://github.com/adityaborgaonkar/adityaborgaonkar/avatar_trans.png?raw=true">
 
 <br/>
 <br/>
